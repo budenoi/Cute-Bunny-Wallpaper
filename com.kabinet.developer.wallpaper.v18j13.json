@@ -3,7 +3,7 @@
  
 "json_popup_wait" : "Wellcome To Tricaal Studio",
   
-"mode_no_ads" : true,
+"mode_no_ads" : false,
 "mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
 
 // Mode Iklan
@@ -16,8 +16,8 @@
 //  Mode APPLOVIN    Applovin  backup Unity Backup Startapp
 //  Iklan native hanya bisa admob fan appodel
 
-"pengaturan_iklan_banner" : "ADMOB",
-"pengaturan_iklan_inter" : "ADMOB",
+"pengaturan_iklan_banner" : "APPLOVIN",
+"pengaturan_iklan_inter" : "APPLOVIN",
 "pengaturan_iklan_native" : "ADMOB",
 
 "inter_count" : 4,
@@ -30,11 +30,11 @@
 "mode_offline_mp3" : false,
 "enable_sticky_notification" : false,
 
-"startapp" : "205580357",
+"startapp" : "206272636",
 
 "admob_banner" : "ca-app-pub-7736517855402652/5978282424",
 "admob_inter" : "ca-app-pub-7736517855402652/1759264994",
-"admob_native" : "ca-app-pub-7736517855402652/5830371949",
+"admob_native" : "ca-app-pub-7736517855402652/8961499958",
 
 "hpk_alien" : "kuota data 30gb",
 "hpkadmob1" : "Kuota Data",
@@ -54,8 +54,8 @@
 "unity_id" : 4809395,
 "unity_test" : false,
 
-"applovin_banner_id" : "YOUR_AD_UNIT_ID",
-"applovin_inters_id" : "YOUR_AD_UNIT_ID",
+"applovin_banner_id" : "898a3139839426a3",
+"applovin_inters_id" : "2e6fb9b5ad760524",
 
 "Button_Rating" : "Rating Sekarang",
 "Button_Share" : "Bagikan Ke Teman",
